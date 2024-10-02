@@ -7,6 +7,7 @@ body{
     background: rgb(253, 253, 253);
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
+    
 }
 #contenedor{
     width: 100%;
@@ -31,7 +32,6 @@ nav{
     font-size: 25px;
 }
 #contenido{
-    float: right;
     width: 100%;
     background: rgb(255, 255, 255);
     min-height: 600px;
