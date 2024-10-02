@@ -27,13 +27,13 @@ nav{
     background:rgb(240, 117, 16);
     padding: 23px;
     line-height: 20px;
-    height: 160px;
+
     font-size: 25px;
 }
 #contenido{
     float: right;
     width: 100%;
-    background: rgb(209, 5, 5);
+    background: rgb(255, 255, 255);
     min-height: 600px;
     padding: 15px;
     padding-bottom: 5px;
